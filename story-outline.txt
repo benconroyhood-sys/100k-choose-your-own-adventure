@@ -1,0 +1,80 @@
+1. The Lighthouse (mystery)
+
+1. You arrive at an abandoned lighthouse at dusk. The door hangs open and a light flickers above.
+
+Climb the stairs → 2
+Check the cellar → 3
+
+2. At the top, a lantern burns beside a note: “Don’t trust the keeper.” Footsteps echo behind you.
+
+Hide behind the lens → 4
+Confront whoever is coming → 5
+
+3. The cellar is full of crates stamped with a ship’s name. A hatch in the floor leads to a sea cave.
+
+Open the hatch → 6
+Examine the crates → 7
+
+4. A figure in a raincoat snuffs the lantern, then signals to a boat offshore.
+
+Follow the figure down the cliff path → 8
+Signal the boat yourself → 9
+
+5. The keeper appears. “You’re the third detective this year,” he says, holding out a kettle.
+
+Accept his tea → 10
+Demand the truth → 11
+
+6. The sea cave floods as the tide rises. A rowboat is tied nearby, and a rocky ledge climbs the wall.
+
+Take the rowboat → 12
+Climb the ledge → 13
+
+7. The crates hold maps and a thick ledger.
+
+Take the ledger → 14
+Burn the evidence → 15
+
+8. The figure hurries along the cliff edge, and you gain on them.
+
+Call out → 16
+Leap to tackle them → 17
+
+9. The boat swings toward shore, its lamp blinking a code.
+
+Flash the code back → 18
+Flash a random pattern → 19
+
+10. The tea is warm and strangely sweet.
+
+Drink it all → 20
+Pour it out when he’s not looking → 21
+
+11. The keeper sighs and looks at the sea.
+
+Press him harder → 22
+Soften your tone → 23
+
+12. THE END: Daring Escape. You row to the mainland and hand the coast guard the smugglers’ location.
+
+13. THE END: Wrong Rescuers. Fishermen pull you from the ledge at dawn. They’re the smugglers.
+
+14. THE END: Headline Detective. The ledger names the mayor, and you make the front page.
+
+15. THE END: Beacon of Flame. The fire climbs the tower and lights the coast for miles. Everyone comes to see.
+
+16. THE END: Family Secrets. The figure is the keeper’s daughter, who confesses it all to you.
+
+17. THE END: A Long Swim. You both tumble into the sea, and you wash up in the next town with a great story.
+
+18. THE END: Smuggler’s Share. The captain welcomes you aboard and offers a cut. You take it.
+
+19. THE END: Cold Case. The boat flees and never returns, and the case goes cold.
+
+20. THE END: The Vanishing Lighthouse. You wake on the dock, and the lighthouse is gone from the map.
+
+21. THE END: A Ghost’s Company. You discover the keeper has been dead for decades. You stay for the stories.
+
+22. THE END: Treasure Hunters. He confesses he’s guarding buried treasure, and you split it.
+
+23. THE END: The Lonely Keeper. He wrote the notes himself because he wanted visitors. You visit every month.
