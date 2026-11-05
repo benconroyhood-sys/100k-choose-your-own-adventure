@@ -20,7 +20,7 @@ elif choice == "2":
     print("What do you want to do next?")
     print("1. Look at the people in your class")
 """
-    
+
 title = "The Lighthouse (mystery)"
 print()
 print(title.title())
@@ -34,13 +34,13 @@ if choice == "2":
     print("2. At the top, a lantern burns beside a note: “Don’t trust the keeper.” Footsteps echo behind you.")
     print("Hide behind the lens → 4")
     print("Confront whoever is coming → 5")
-    choice = input("Make a choice: ")        
+    choice = input("Make a choice: ")
     if choice == "4":
         print()
         print("4. A figure in a raincoat snuffs the lantern, then signals to a boat offshore.")
         print("Follow the figure down the cliff path → 8")
         print("Signal the boat yourself → 9")
-        choice = input("Make a choice: ")            
+        choice = input("Make a choice: ")
         if choice == "8":
             print()
             print("8. The figure hurries along the cliff edge, and you gain on them.")
@@ -54,7 +54,7 @@ if choice == "2":
             elif choice == "17":
                 print()
                 print("17. THE END: A Long Swim. You both tumble into the sea, and you wash up in the next town with a great story.")
-                print()            
+                print()
         elif choice == "9":
             print()
             print("9. The boat swings toward shore, its lamp blinking a code.")
@@ -74,7 +74,7 @@ if choice == "2":
         print("5. The keeper appears. “You’re the third detective this year,” he says, holding out a kettle.")
         print("Accept his tea → 10")
         print("Demand the truth → 11")
-        choice = input("Make a choice: ")            
+        choice = input("Make a choice: ")
         if choice == "10":
             print()
             print("10. The tea is warm and strangely sweet.")
@@ -88,7 +88,7 @@ if choice == "2":
             elif choice == "21":
                 print()
                 print("21. THE END: A Ghost’s Company. You discover the keeper has been dead for decades. You stay for the stories.")
-                print()            
+                print()
         elif choice == "11":
             print()
             print("11. The keeper sighs and looks at the sea.")
@@ -108,7 +108,7 @@ elif choice == "3":
     print("3. The cellar is full of crates stamped with a ship’s name. A hatch in the floor leads to a sea cave.")
     print("Open the hatch → 6")
     print("Examine the crates → 7")
-    choice = input("Make a choice: ")        
+    choice = input("Make a choice: ")
     if choice == "6":
         print()
         print("6. The sea cave floods as the tide rises. A rowboat is tied nearby, and a rocky ledge climbs the wall.")
@@ -122,7 +122,7 @@ elif choice == "3":
         elif choice == "13":
             print()
             print("13. THE END: Wrong Rescuers. Fishermen pull you from the ledge at dawn. They’re the smugglers.")
-            print()        
+            print()
     elif choice == "7":
         print()
         print("7. The crates hold maps and a thick ledger.")
